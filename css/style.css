@@ -1,0 +1,11 @@
+main{
+    min-height: 100vh;
+}
+
+.bg_primary{
+    background-color: #0d0d0d;
+}
+
+.br_primary{
+    border-color: #1d1d1d;
+}
